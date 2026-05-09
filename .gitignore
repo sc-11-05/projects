@@ -9,6 +9,7 @@ __pycache__/
 
 # Environment variables
 .env
+node_modules
 
 # VS Code optional
 .vscode/
